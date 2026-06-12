@@ -1,0 +1,35 @@
+{
+  "1.0.0": [
+    "Initial public release",
+    "About modal with version and mamgain.app link",
+    "Support Development link in Help menu",
+    "Check for Updates with auto-updater and progress",
+    "Expanded User Guide - Shortcuts, File Types, Portable Mode, Snippets, Session and Recovery"
+  ],
+  "1.0.2": [
+    "Improved auto-update checking so the dialog no longer stays stuck on Checking",
+    "Added clearer updater messages for packaged and development builds",
+    "Added timeout handling when the update server or GitHub release metadata cannot be reached",
+    "Rebuilt Windows setup and portable release artifacts for the updater flow"
+  ],
+  "1.0.3": [
+    "Added changelog support to the Check for Updates dialog",
+    "The update dialog can now show release notes for the installed or available version",
+    "Changelog data loads from the public mnotepadx-releases repository without blocking the modal",
+    "Changelog loading fails silently if release notes are not available"
+  ],
+  "1.0.4": [
+    "Added submenu support to the titlebar App Menu",
+    "Grouped Save and Save As under a File menu submenu",
+    "Grouped Find commands under an Edit menu submenu",
+    "Added a Recent Files submenu with filename and folder details",
+    "Added Clear Recent Files support from the App Menu"
+  ],
+  "1.0.5": [
+    "Fixed App Menu overflow when the window height is small",
+    "The App Menu now scrolls vertically instead of being cut off",
+    "Added subtle thin scrollbars for long menu panels",
+    "Submenus now scroll when needed and flip upward near the bottom edge",
+    "The App Menu closes cleanly when the window is resized"
+  ]
+}
