@@ -1,0 +1,14 @@
+{
+  "announcements": [
+    {
+      "id": "2026-06-14-mamgain-app-news",
+      "title": "News from Mamgain.app",
+      "body": "Thanks for installing apps of the Mamgain Ecosystem. We are excited to have you on board.",
+      "type": "general-news",
+      "date": "2026-06-14",
+      "priority": "normal",
+      "link": "https://mamgain.app",
+      "linkLabel": "Visit Mamgain.app"
+    }
+  ]
+}
