@@ -17,7 +17,6 @@ https://github.com/pradeepmamgaintech/mnotepadx-releases/releases/latest
 Each release may include:
 
 * **Setup version** — recommended for most users
-* **Portable version** — runs directly without installation
 
 ## System Requirements
 
@@ -31,11 +30,6 @@ Each release may include:
 1. Download the latest `MNotepadX-Setup-<version>-x64.exe` file.
 2. Run the installer.
 3. Follow the on-screen instructions.
-
-### Portable Version
-
-1. Download the latest `MNotepadX-Portable-<version>-x64.exe` file.
-2. Run the downloaded file directly.
 
 ## Security Notice
 
