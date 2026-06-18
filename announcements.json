@@ -1,11 +1,11 @@
 {
   "announcements": [
     {
-      "id": "2026-06-14-mamgain-app-news",
+      "id": "2026-06-18-mamgain-app-news",
       "title": "News from Mamgain.app",
-      "body": "Thanks for installing apps of the Mamgain Ecosystem. We are excited to have you on board.",
+      "body": "Thanks for installing apps of the Mamgain Ecosystem. We are excited to have you on board. The v1.0.8 release of MNotepadX is now available. This release includes several new features, bug fixes, and performance improvements. We encourage you to update to the latest version to enjoy the best experience.",
       "type": "general-news",
-      "date": "2026-06-14",
+      "date": "2026-06-18",
       "priority": "normal",
       "link": "https://mamgain.app",
       "linkLabel": "Visit Mamgain.app"
