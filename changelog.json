@@ -1,6 +1,8 @@
 {
-  "1.0.7": [
-    "Fix snippets",
+  "1.0.8": [
+    "The Open dialog can now open multiple files.",
+    "The JSON File hang is fixed",
+    "The document now scrolls if you add blank lines in the end",
      "Other minor fixes!"
   ]
 }
